@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+plugins:          [jekyll-paginate]
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            5-Minute Adventures
+tagline:          'A rules-lite RPG to get you playing quicker and more often.'
+description:      'A rules-lite RPG to get you playing quicker and more often.'
+url:              https://adelynflowers.dev/five-minute-adventures
+baseurl:          /
+
+author:
+  name:           'Adelyn Flowers'
+  url:            https://adelynflowers.dev
+
+paginate:         5
+
+# Custom vars
+# version:          2.1.0
+
+# github:
+#   repo:           https://github.com/poole/hyde

@@ -10,7 +10,7 @@ title:            5-Minute Adventures
 tagline:          'A rules-lite RPG to get you playing quicker and more often.'
 description:      'A rules-lite RPG to get you playing quicker and more often.'
 url:              https://adelynflowers.dev/five-minute-adventures
-baseurl:          /
+baseurl:          /five-minute-adventures/
 
 author:
   name:           'Adelyn Flowers'
